@@ -1,0 +1,1 @@
+PROGRAM MiniCassio;USES UnitServicesTypes,UnitServicesMemoire,     UnitServicesRapport;BEGINEND.

@@ -1,0 +1,1 @@
+UNIT UnitMultiprocessing;INTERFACE{$pragmac align_array_members on }{$pragmac align power }{$pragmac options align= power }{$ALIGN PowerPC}IMPLEMENTATION{$pragmac align_array_members on }{$pragmac align power }{$pragmac options align= power }{$ALIGN PowerPC}END.
